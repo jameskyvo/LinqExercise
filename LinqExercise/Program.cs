@@ -103,9 +103,6 @@ namespace LinqExercise
             {
                 Console.WriteLine(employee.FullName);
             }
-
-            Console.WriteLine();
-
             Console.ReadLine();
         }
 
