@@ -103,7 +103,6 @@ namespace LinqExercise
             {
                 Console.WriteLine(employee.FullName);
             }
-            Console.ReadLine();
         }
 
         #region CreateEmployeesMethod
